@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712448087932",
+    "project_id": "alexandruresume",
+    "storage_bucket": "alexandruresume.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712448087932:android:628877b7c6a8c31b54b6f9",
+        "android_client_info": {
+          "package_name": "com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712448087932-5ji6f559lf6a2p4uh31lssigj9abob5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrqMaFkRXu2L-YJBoR9Mn4MGB8GFbY9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712448087932-5ji6f559lf6a2p4uh31lssigj9abob5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
