@@ -1,7 +1,7 @@
 package com.myapplication;
 
 public class Message {
-    private String name, mail, subject, message, id;
+    private String name, mail, subject, message, id, time;
 
     public Message() {
         name = "pepe";
@@ -9,14 +9,24 @@ public class Message {
         subject = "pepe";
         message = "pepe";
         id = "pepe";
+        time = "pepe";
     }
 
-    public Message(String name, String mail, String subject, String message, String id) {
+    public Message(String name, String mail, String subject, String message, String id, String time) {
         this.name = name;
         this.mail = mail;
         this.subject = subject;
         this.message = message;
         this.id = id;
+        this.time = time;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
     }
 
     public String getName() {
